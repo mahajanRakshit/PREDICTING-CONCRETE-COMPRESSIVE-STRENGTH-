@@ -4,6 +4,18 @@
 
 This project focuses on predicting the compressive strength of concrete using machine learning and deep learning techniques. Concrete strength depends on various ingredients like cement, water, fine aggregate, coarse aggregate, fly ash, slag, and age. The goal is to build a predictive model that can estimate the final strength based on these input parameters.
 
+🧱 Problem Statement
+
+Concrete is one of the most widely used construction materials, and its compressive strength is a key factor determining structural performance and safety.However, testing concrete strength through laboratory experiments is time-consuming, costly, and requires specialized equipment.
+
+To address this, the project aims to develop a predictive model that can accurately estimate the compressive strength of concrete based on its ingredients (cement, water, coarse and fine aggregates, fly ash, superplasticizer, and age) using machine learning techniques.
+
+This approach helps in:
+
+1.Reducing the need for repetitive laboratory tests.
+2.Saving time and resources.
+3.Improving quality control during construction.
+
 🎯 Objective
 
 To create a reliable and accurate model that predicts concrete compressive strength (measured in MPa) based on the mixture proportions and curing age.
